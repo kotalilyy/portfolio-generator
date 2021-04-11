@@ -1,5 +1,21 @@
 # Portfolio Generator
 
+Use this Portfolio Generator to display your projects! 
+
+## Getting Started
+
+Clone or fork this repository
+
+```bash
+git clone git@github.com:kotalilyy/portfolio-generator.git
+```
+
+## Installing
+
+```bash
+npm install
+```
+
 ## Technologies Used
 
 - HTML
@@ -12,19 +28,11 @@
 
 - Inquirer
 
-## Getting started
+## Contribute 
 
-Clone this repository
+Feel free to contribute by submitting an issue or a pull request.
 
-```bash
-git clone git@github.com:kotalilyy/portfolio-generator.git
-```
-
-## Installation
-
-```bash
-npm install
-```
+*Happy Coding!*
 
 ## Resources
 
@@ -49,3 +57,9 @@ https://dev.to/_ferh97/understanding-callbacks-and-promises-3fd5
 https://thecodebarbarian.com/2015/03/20/callback-hell-is-a-myth
 
 https://www.w3schools.com/js/js_es6.asp
+
+https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
+
+## License 
+
+MIT 
