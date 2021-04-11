@@ -58,7 +58,7 @@ https://thecodebarbarian.com/2015/03/20/callback-hell-is-a-myth
 
 https://www.w3schools.com/js/js_es6.asp
 
-https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
+https://github.com/coding-boot-camp/potential-enigma/blob/master/readme-guide.md
 
 ## License 
 
