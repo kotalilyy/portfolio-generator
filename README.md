@@ -1,8 +1,30 @@
 # Portfolio Generator
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+## Description
+
 Use this Portfolio Generator to display your projects! 
 
-## Getting Started
+## Table of Contents 
+
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
+
+## Installation 
+
+```bash
+npm install
+```
+
+## Usage 
 
 Clone or fork this repository
 
@@ -10,56 +32,24 @@ Clone or fork this repository
 git clone git@github.com:kotalilyy/portfolio-generator.git
 ```
 
-## Installing
+## Credits
+
+[More about Node](https://nodeschool.io/)
+
+## License  
+
+This project is licensed under [Apache 2.0 License](https://opensource.org/licenses/Apache-2.0). 
+
+## Contributing
+
+Create a pull request to contribute!
+
+## Tests
 
 ```bash
-npm install
-```
+node app.js
+``` 
 
-## Technologies Used
+## Questions
 
-- HTML
-
-- CSS 
-
-- JavaScript/ ES6
-
-- Node.js
-
-- Inquirer
-
-## Contribute 
-
-Feel free to contribute by submitting an issue or a pull request.
-
-*Happy Coding!*
-
-## Resources
-
-https://www.freecodecamp.org/news/the-definitive-node-js-handbook-6912378afc6e/
-
-https://nodeschool.io/
-
-https://www.nodegirls.com/
-
-https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/
-
-https://andrew.hedges.name/es6/
-
-https://www.freecodecamp.org/news/write-less-do-more-with-javascript-es6-5fd4a8e50ee2/
-
-https://davidwalsh.name/es7-es8-features
-
-https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff
-
-https://dev.to/_ferh97/understanding-callbacks-and-promises-3fd5
-
-https://thecodebarbarian.com/2015/03/20/callback-hell-is-a-myth
-
-https://www.w3schools.com/js/js_es6.asp
-
-https://github.com/coding-boot-camp/potential-enigma/blob/master/readme-guide.md
-
-## License 
-
-MIT 
+Email me at kotalilyy@gmail.com with any questions.
