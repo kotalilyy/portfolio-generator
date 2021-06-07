@@ -14,8 +14,8 @@ Use this Portfolio Generator to display your projects!
   - [Usage](#usage)
   - [Credits](#credits)
   - [License](#license)
-  - [Contributing](#contributing)
   - [Tests](#tests)
+  - [Contributions](#contributions
   - [Questions](#questions)
 
 ## Installation 
@@ -40,16 +40,20 @@ git clone git@github.com:kotalilyy/portfolio-generator.git
 
 This project is licensed under [Apache 2.0 License](https://opensource.org/licenses/Apache-2.0). 
 
-## Contributing
-
-Create a pull request to contribute!
-
 ## Tests
 
 ```bash
 node app.js
 ``` 
 
+## Contributions
+
+Created with ❤️ by [Dakota Nelson](https://github.com/kotalilyy)
+
 ## Questions
 
-Email me at kotalilyy@gmail.com with any questions.
+<a href="mailto:kotalilyy@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+
+
+
