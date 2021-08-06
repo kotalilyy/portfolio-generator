@@ -15,7 +15,7 @@ Use this Portfolio Generator to display your projects!
   - [Credits](#credits)
   - [License](#license)
   - [Tests](#tests)
-  - [Contributions](#contributions
+  - [Contributions](#contributions)
   - [Questions](#questions)
 
 ## Installation 
