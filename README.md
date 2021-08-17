@@ -1,28 +1,19 @@
-# Portfolio Generator
+# portfolio-generator
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Description
 
-Use this Portfolio Generator to display your projects! 
+Use this Portfolio generator to display your projects.
 
 ## Table of Contents 
 
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
   - [Usage](#usage)
-  - [Credits](#credits)
   - [License](#license)
-  - [Tests](#tests)
   - [Contributions](#contributions)
   - [Questions](#questions)
-
-## Installation 
-
-```bash
-npm install
-```
 
 ## Usage 
 
@@ -32,19 +23,9 @@ Clone or fork this repository
 git clone git@github.com:kotalilyy/portfolio-generator.git
 ```
 
-## Credits
-
-[More about Node](https://nodeschool.io/)
-
 ## License  
 
 This project is licensed under [Apache 2.0 License](https://opensource.org/licenses/Apache-2.0). 
-
-## Tests
-
-```bash
-node app.js
-``` 
 
 ## Contributions
 
